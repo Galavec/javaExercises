@@ -11,13 +11,16 @@ target/
 .settings
 .springBeans
 .sts4-cache
-.class
+
 
 .idea
 .mvn
+
+# Other files:
 *.iws
 *.iml
 *.ipr
+*.class
 
 /nbproject/private/
 /nbbuild/
