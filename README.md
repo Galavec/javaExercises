@@ -14,6 +14,7 @@ Agradezco de antemano toda ayuda que se le brinde a este repositorio. Que puedas
 ## Recursos:
 En este repositorio encontrarás:
 - Mostrar mensaje en la consola o terminal.
+- Crear ventana con JFrame.
 
 ## Comandos o proceso para ejecutar archivo:
 1. Compilar: javac nombreArchivo.java
@@ -32,6 +33,7 @@ I appreciate in advance any help given to this repository. That you can give the
 ## Resources:
 In this repository you will find:
 - Show message in console or terminal.
+- Create window with JFrame.
 
 ## Commands or process to execute file:
 1. Compile: javac fileName.java
