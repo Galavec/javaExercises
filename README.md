@@ -19,6 +19,7 @@ En este repositorio encontrarás:
 - Verificar si un número ingresado es par o impar. (OddOrEvenNumber)
 - Verificar si un número ingresado es positivo o negativo. (PositiveOrNegativeNumber)
 - Verificar si un número se encuentra entre un rango. (CheckTheNumberBetweenRange)
+- Imprimir el número de filas. (PrintRows)
 
 ## Comandos o proceso para ejecutar archivo:
 1. Compilar: javac nombreArchivo.java
@@ -42,6 +43,7 @@ In this repository you will find:
 - Check if an entered number is even or odd. (OddOrEvenNumber)
 - Check if an entered number is positive or negative. (PositiveOrNegativeNumber)
 - Check if a number is between a range. (CheckTheNumberBetweenRange)
+- Prints the number of rows. (PrintRows)
 
 ## Commands or process to execute file:
 1. Compile: javac fileName.java
