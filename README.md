@@ -20,6 +20,7 @@ En este repositorio encontrarás:
 - Verificar si un número ingresado es positivo o negativo. (PositiveOrNegativeNumber)
 - Verificar si un número se encuentra entre un rango. (CheckTheNumberBetweenRange)
 - Imprimir el número de filas. (PrintRows)
+- Promedio de edades y porcentaje de personas mayores de cincuenta años. (AverageAge)
 
 ## Comandos o proceso para ejecutar archivo:
 1. Compilar: javac nombreArchivo.java
@@ -44,6 +45,7 @@ In this repository you will find:
 - Check if an entered number is positive or negative. (PositiveOrNegativeNumber)
 - Check if a number is between a range. (CheckTheNumberBetweenRange)
 - Prints the number of rows. (PrintRows)
+- Average age and percentage of people older than fifty years. (AverageAge)
 
 ## Commands or process to execute file:
 1. Compile: javac fileName.java
