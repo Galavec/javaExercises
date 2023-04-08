@@ -21,6 +21,7 @@ En este repositorio encontrarás:
 - Verificar si un número se encuentra entre un rango. (CheckTheNumberBetweenRange)
 - Imprimir el número de filas. (PrintRows)
 - Promedio de edades y porcentaje de personas mayores de cincuenta años. (AverageAge)
+- Calcular el número de trabajadores que recibirán bonos. (CalculateBonusForWorkers)
 
 ## Comandos o proceso para ejecutar archivo:
 1. Compilar: javac nombreArchivo.java
@@ -46,6 +47,7 @@ In this repository you will find:
 - Check if a number is between a range. (CheckTheNumberBetweenRange)
 - Prints the number of rows. (PrintRows)
 - Average age and percentage of people older than fifty years. (AverageAge)
+- Calculate the number of workers who will receive the bonus. (CalculateBonusForWorkers)
 
 ## Commands or process to execute file:
 1. Compile: javac fileName.java
