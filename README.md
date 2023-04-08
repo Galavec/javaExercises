@@ -18,6 +18,7 @@ En este repositorio encontrarás:
 - Obtener IP y nombre de un dominio. (GetIpAndDomainName)
 - Verificar si un número ingresado es par o impar. (OddOrEvenNumber)
 - Verificar si un número ingresado es positivo o negativo. (PositiveOrNegativeNumber)
+- Verificar si un número se encuentra entre un rango. (CheckTheNumberBetweenRange)
 
 ## Comandos o proceso para ejecutar archivo:
 1. Compilar: javac nombreArchivo.java
@@ -40,6 +41,7 @@ In this repository you will find:
 - Obtain IP and name of a domain. (GetIpAndDomainName)
 - Check if an entered number is even or odd. (OddOrEvenNumber)
 - Check if an entered number is positive or negative. (PositiveOrNegativeNumber)
+- Check if a number is between a range. (CheckTheNumberBetweenRange)
 
 ## Commands or process to execute file:
 1. Compile: javac fileName.java
