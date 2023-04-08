@@ -22,6 +22,7 @@ En este repositorio encontrarás:
 - Imprimir el número de filas. (PrintRows)
 - Promedio de edades y porcentaje de personas mayores de cincuenta años. (AverageAge)
 - Calcular el número de trabajadores que recibirán bonos. (CalculateBonusForWorkers)
+- Calcula el promedio de las alturas con Float. (AverageHeightsWithFloat)
 
 ## Comandos o proceso para ejecutar archivo:
 1. Compilar: javac nombreArchivo.java
@@ -48,6 +49,7 @@ In this repository you will find:
 - Prints the number of rows. (PrintRows)
 - Average age and percentage of people older than fifty years. (AverageAge)
 - Calculate the number of workers who will receive the bonus. (CalculateBonusForWorkers)
+- Calculate the average of the heights with Float. (AverageHeightsWithFloat)
 
 ## Commands or process to execute file:
 1. Compile: javac fileName.java
