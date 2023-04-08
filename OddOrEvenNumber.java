@@ -3,12 +3,12 @@ import java.io.*;
 /*
  * @description: Check if a number is even or odd.
  * @createdDate: 07/04/2023 13:31 GMT-5
- * @lastModifiedDate: N/A
+ * @lastModifiedDate: 08/04/2023 15:11 GMT-5
  * @version: 1.0
  */
 
 public class OddOrEvenNumber {
-    public static void main(String args[]) throws IOException {
+    public static void main(String[] args) throws IOException {
         System.out.println("*** Check if a number is even or odd ***");
 
         BufferedReader bufferedReader;

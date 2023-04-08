@@ -3,12 +3,12 @@ import java.io.*;
 /*
  * @description: Check if an entered number is positive or negative.
  * @createdDate: 07/04/2023 13:46 GMT-5
- * @lastModifiedDate: N/A
+ * @lastModifiedDate: 08/04/2023 15:11 GMT-5
  * @version: 1.0
  */
 
 public class PositiveOrNegativeNumber {
-    public static void main(String args[]) throws IOException {
+    public static void main(String[] args) throws IOException {
         System.out.println("*** Check if a number is positive or negative ***");
 
         BufferedReader bufferedReader;
